@@ -10,5 +10,5 @@ Latest version: Auto Crawler[BugFix].py
 
 > Contact Me:
 -----------
-* facebook.com/wax.vampire
-* facebook.com/cyber.command0s
+* facebook.com/TheChoyon
+* facebook.com/cyb3r.command0s

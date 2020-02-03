@@ -10,5 +10,4 @@ Latest version: Auto Crawler[BugFix].py
 
 > Contact Me:
 -----------
-* facebook.com/TheChoyon
-* facebook.com/cyb3r.command0s
+* t.me/TheChoyon
